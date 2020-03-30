@@ -1,1 +1,1 @@
-controller java is been modified second time
+I am checking the git commit -am function by changing the text on this file 
